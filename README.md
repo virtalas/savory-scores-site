@@ -17,6 +17,8 @@ Let's create a catalog for authentic Japanese food in Helsinki!
 
 - Save meals, restaurants, or even entire food categories for later.
 
+---
+
 Savory Scores is all about sharing the love for authentic Japanese food. But it can also be used for dishes from other cuisines — and even retail items.
 
 Terms & Conditions: https://gist.github.com/virtalas/9cc304e0416726b52224edb704b03cdc
